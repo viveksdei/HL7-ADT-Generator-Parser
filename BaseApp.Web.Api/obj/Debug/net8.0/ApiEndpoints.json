@@ -1,0 +1,98 @@
+[
+  {
+    "ContainingType": "BaseApp.Web.Api.Controllers.HL7.ADT.AdmitVisit.AdmitVisitNotificationController",
+    "Method": "FromHL7ToJsonAdmitVisit",
+    "RelativePath": "api/FromHL7ToJsonAdmitVisit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hl7Message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BaseApp.Web.Api.Controllers.HL7.ADT.DischargeEndVisit.DischargeEndVisitController",
+    "Method": "FromHL7ToJsonDischargeEndVisit",
+    "RelativePath": "api/FromHL7ToJsonDischargeEndVisit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hl7Message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BaseApp.Web.Api.Controllers.HL7.ADT.TransferPatient.TransferPatientController",
+    "Method": "FromHL7ToJsonTransferPatient",
+    "RelativePath": "api/FromHL7ToJsonTransferPatient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hl7Message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BaseApp.Web.Api.Controllers.HL7.ADT.AdmitVisit.AdmitVisitNotificationController",
+    "Method": "FromJsonToHL7AdmitVisit",
+    "RelativePath": "api/FromJsonToHL7AdmitVisit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BaseApp.Model.HL7.ADT.Admit_Visit_A01.HL7_A01_Model.AdmitVisit_A01_Model",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BaseApp.Web.Api.Controllers.HL7.ADT.DischargeEndVisit.DischargeEndVisitController",
+    "Method": "FromJsonToHL7DischargeEndVisit",
+    "RelativePath": "api/FromJsonToHL7DischargeEndVisit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BaseApp.Model.HL7.ADT.DischargeEndVisit_A03.DischargeEndVisit_Model_A03.DischargeEndVisit_A03_Model",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BaseApp.Web.Api.Controllers.HL7.ADT.TransferPatient.TransferPatientController",
+    "Method": "FromJsonToHL7TransferPatient",
+    "RelativePath": "api/FromJsonToHL7TransferPatient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BaseApp.Model.HL7.ADT.TransferPatient_A02.TransferPatient_Model_A02.TransferPatient_A02_Model",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

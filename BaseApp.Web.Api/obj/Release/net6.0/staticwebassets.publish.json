@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "FOENMitU25aqGCg8OUP4mp170uPZseqxWZy5p51W7zc=",
+  "Source": "BaseApp.Web.Api",
+  "BasePath": "_content/BaseApp.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BaseApp.Web.Api\\wwwroot",
+      "Source": "BaseApp.Web.Api",
+      "ContentRoot": "D:\\NAVJOT\\BaseApp\\BaseApp\\BaseApp.Web.Api\\BaseApp.Web.Api\\wwwroot\\",
+      "BasePath": "_content/BaseApp.Web.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

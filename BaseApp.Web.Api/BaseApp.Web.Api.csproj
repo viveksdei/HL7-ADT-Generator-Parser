@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+	  <TargetFramework>net8.0</TargetFramework>
+
+	  <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\Screen\**" />
+    <Compile Remove="Controllers\User\**" />
+    <Compile Remove="Middlewares\**" />
+    <Compile Remove="wwwroot\**" />
+    <Content Remove="Controllers\Screen\**" />
+    <Content Remove="Controllers\User\**" />
+    <Content Remove="Middlewares\**" />
+    <Content Remove="wwwroot\**" />
+    <EmbeddedResource Remove="Controllers\Screen\**" />
+    <EmbeddedResource Remove="Controllers\User\**" />
+    <EmbeddedResource Remove="Middlewares\**" />
+    <EmbeddedResource Remove="wwwroot\**" />
+    <None Remove="Controllers\Screen\**" />
+    <None Remove="Controllers\User\**" />
+    <None Remove="Middlewares\**" />
+    <None Remove="wwwroot\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Dapper" Version="2.0.123" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.3" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BaseApp.Common\BaseApp.Common.csproj" />
+    <ProjectReference Include="..\BaseApp.IRepository\BaseApp.IRepository.csproj" />
+    <ProjectReference Include="..\BaseApp.IService\BaseApp.IService.csproj" />
+    <ProjectReference Include="..\BaseApp.Repository\BaseApp.Repository.csproj" />
+    <ProjectReference Include="..\BaseApp.Service\BaseApp.Service.csproj" />
+  </ItemGroup>
+
+</Project>

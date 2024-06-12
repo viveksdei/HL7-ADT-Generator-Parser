@@ -1,0 +1,54 @@
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.deps.json
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.dll
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.pdb
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.csproj.AssemblyReference.cache
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.AssemblyInfoInputs.cache
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.AssemblyInfo.cs
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.csproj.CoreCompileInputs.cache
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.dll
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\refint\BaseApp.Model.dll
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.pdb
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\ref\BaseApp.Model.dll
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.deps.json
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.dll
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.pdb
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.csproj.AssemblyReference.cache
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.AssemblyInfoInputs.cache
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.AssemblyInfo.cs
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.csproj.CoreCompileInputs.cache
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.dll
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\refint\BaseApp.Model.dll
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.pdb
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Model\obj\Debug\net6.0\ref\BaseApp.Model.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.deps.json
+D:\setupProject\BaseApp_Backend\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.pdb
+D:\setupProject\BaseApp_Backend\BaseApp.Model\bin\Debug\net6.0\BaseApp.Common.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Model\bin\Debug\net6.0\BaseApp.Common.pdb
+D:\setupProject\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.csproj.AssemblyReference.cache
+D:\setupProject\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\setupProject\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.AssemblyInfoInputs.cache
+D:\setupProject\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.AssemblyInfo.cs
+D:\setupProject\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.csproj.CoreCompileInputs.cache
+D:\setupProject\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.csproj.CopyComplete
+D:\setupProject\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\refint\BaseApp.Model.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.pdb
+D:\setupProject\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\ref\BaseApp.Model.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.deps.json
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\bin\Debug\net6.0\BaseApp.Model.pdb
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\bin\Debug\net6.0\BaseApp.Common.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\bin\Debug\net6.0\BaseApp.Common.pdb
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.csproj.AssemblyReference.cache
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.AssemblyInfoInputs.cache
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.AssemblyInfo.cs
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.csproj.CoreCompileInputs.cache
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp..5841121E.Up2Date
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\refint\BaseApp.Model.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\BaseApp.Model.pdb
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Model\obj\Debug\net6.0\ref\BaseApp.Model.dll

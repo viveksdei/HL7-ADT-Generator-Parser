@@ -1,0 +1,12 @@
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\bin\Release\net6.0\BaseApp.Common.deps.json
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\bin\Release\net6.0\BaseApp.Common.dll
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\bin\Release\net6.0\BaseApp.Common.pdb
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\obj\Release\net6.0\BaseApp.Common.csproj.AssemblyReference.cache
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\obj\Release\net6.0\BaseApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\obj\Release\net6.0\BaseApp.Common.AssemblyInfoInputs.cache
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\obj\Release\net6.0\BaseApp.Common.AssemblyInfo.cs
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\obj\Release\net6.0\BaseApp.Common.csproj.CoreCompileInputs.cache
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\obj\Release\net6.0\BaseApp.Common.dll
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\obj\Release\net6.0\refint\BaseApp.Common.dll
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\obj\Release\net6.0\BaseApp.Common.pdb
+D:\NAVJOT\Base_App\BaseApp_Backend\BaseApp.Common\obj\Release\net6.0\ref\BaseApp.Common.dll

@@ -1,0 +1,65 @@
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.deps.json
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.dll
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.pdb
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.csproj.AssemblyReference.cache
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.AssemblyInfoInputs.cache
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.AssemblyInfo.cs
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.csproj.CoreCompileInputs.cache
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.dll
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\refint\BaseApp.Repository.dll
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.pdb
+D:\AjayMishra\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\ref\BaseApp.Repository.dll
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.deps.json
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.dll
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.pdb
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\bin\Debug\net6.0\BaseApp.IRepository.dll
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\bin\Debug\net6.0\BaseApp.IRepository.pdb
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.csproj.AssemblyReference.cache
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.AssemblyInfoInputs.cache
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.AssemblyInfo.cs
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.csproj.CoreCompileInputs.cache
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.csproj.CopyComplete
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.dll
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\refint\BaseApp.Repository.dll
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.pdb
+D:\NAVJOT\BaseApp\BaseApp\BaseApp.Web.Api\BaseApp.Repository\obj\Debug\net6.0\ref\BaseApp.Repository.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.deps.json
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.pdb
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Common.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.IRepository.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Model.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Common.pdb
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.IRepository.pdb
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Model.pdb
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.csproj.AssemblyReference.cache
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.AssemblyInfoInputs.cache
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.AssemblyInfo.cs
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.csproj.CoreCompileInputs.cache
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.csproj.CopyComplete
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\refint\BaseApp.Repository.dll
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.pdb
+D:\setupProject\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\ref\BaseApp.Repository.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.deps.json
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Repository.pdb
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Common.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.IRepository.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Model.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Common.pdb
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.IRepository.pdb
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\bin\Debug\net6.0\BaseApp.Model.pdb
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.csproj.AssemblyReference.cache
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.AssemblyInfoInputs.cache
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.AssemblyInfo.cs
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.csproj.CoreCompileInputs.cache
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp..CB4EC735.Up2Date
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\refint\BaseApp.Repository.dll
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\BaseApp.Repository.pdb
+D:\Abhishek\Ajay Mishra\BaseApp_Backend\BaseApp.Repository\obj\Debug\net6.0\ref\BaseApp.Repository.dll

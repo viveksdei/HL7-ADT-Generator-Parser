@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "aViB3XDtONuq2EeDTAiJ3QKyB88jgMLQWu783LvXRW4=",
+  "Source": "BaseApp.Web.Api",
+  "BasePath": "_content/BaseApp.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BaseApp.Web.Api\\wwwroot",
+      "Source": "BaseApp.Web.Api",
+      "ContentRoot": "D:\\Abhishek\\Ajay Mishra\\BaseApp_Backend\\BaseApp.Web.Api\\wwwroot\\",
+      "BasePath": "_content/BaseApp.Web.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
