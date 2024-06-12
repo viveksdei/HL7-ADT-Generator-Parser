@@ -1,2 +1,2 @@
 # HL7-ADT-Generator-Parser
-Please Read The Document In Document Folder
+For integration please go through the document folder 
