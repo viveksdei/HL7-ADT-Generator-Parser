@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaseApp_Backend\\BaseApp.IService\\BaseApp.IService.csproj": {}
+    "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.IService\\BaseApp.IService.csproj": {}
   },
   "projects": {
-    "D:\\BaseApp_Backend\\BaseApp.Common\\BaseApp.Common.csproj": {
+    "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Common\\BaseApp.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaseApp_Backend\\BaseApp.Common\\BaseApp.Common.csproj",
+        "projectUniqueName": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Common\\BaseApp.Common.csproj",
         "projectName": "BaseApp.Common",
-        "projectPath": "D:\\BaseApp_Backend\\BaseApp.Common\\BaseApp.Common.csproj",
+        "projectPath": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Common\\BaseApp.Common.csproj",
         "packagesPath": "C:\\Users\\ritesh.rana\\.nuget\\packages\\",
-        "outputPath": "D:\\BaseApp_Backend\\BaseApp.Common\\obj\\",
+        "outputPath": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\BaseApp_Backend\\BaseApp.IService\\BaseApp.IService.csproj": {
+    "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.IService\\BaseApp.IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaseApp_Backend\\BaseApp.IService\\BaseApp.IService.csproj",
+        "projectUniqueName": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.IService\\BaseApp.IService.csproj",
         "projectName": "BaseApp.IService",
-        "projectPath": "D:\\BaseApp_Backend\\BaseApp.IService\\BaseApp.IService.csproj",
+        "projectPath": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.IService\\BaseApp.IService.csproj",
         "packagesPath": "C:\\Users\\ritesh.rana\\.nuget\\packages\\",
-        "outputPath": "D:\\BaseApp_Backend\\BaseApp.IService\\obj\\",
+        "outputPath": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.IService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,8 +116,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\BaseApp_Backend\\BaseApp.Model\\BaseApp.Model.csproj": {
-                "projectPath": "D:\\BaseApp_Backend\\BaseApp.Model\\BaseApp.Model.csproj"
+              "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Model\\BaseApp.Model.csproj": {
+                "projectPath": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Model\\BaseApp.Model.csproj"
               }
             }
           }
@@ -170,14 +170,14 @@
         }
       }
     },
-    "D:\\BaseApp_Backend\\BaseApp.Model\\BaseApp.Model.csproj": {
+    "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Model\\BaseApp.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaseApp_Backend\\BaseApp.Model\\BaseApp.Model.csproj",
+        "projectUniqueName": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Model\\BaseApp.Model.csproj",
         "projectName": "BaseApp.Model",
-        "projectPath": "D:\\BaseApp_Backend\\BaseApp.Model\\BaseApp.Model.csproj",
+        "projectPath": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Model\\BaseApp.Model.csproj",
         "packagesPath": "C:\\Users\\ritesh.rana\\.nuget\\packages\\",
-        "outputPath": "D:\\BaseApp_Backend\\BaseApp.Model\\obj\\",
+        "outputPath": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -199,8 +199,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BaseApp_Backend\\BaseApp.Common\\BaseApp.Common.csproj": {
-                "projectPath": "D:\\BaseApp_Backend\\BaseApp.Common\\BaseApp.Common.csproj"
+              "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Common\\BaseApp.Common.csproj": {
+                "projectPath": "D:\\Ritesh\\HL7\\HL7-ADT-Generator-Parser\\BaseApp.Common\\BaseApp.Common.csproj"
               }
             }
           }

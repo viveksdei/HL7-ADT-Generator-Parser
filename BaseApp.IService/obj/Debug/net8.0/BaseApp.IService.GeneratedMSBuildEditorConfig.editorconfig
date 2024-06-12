@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BaseApp.IService
-build_property.ProjectDir = D:\BaseApp_Backend\BaseApp.IService\
+build_property.ProjectDir = D:\Ritesh\HL7\HL7-ADT-Generator-Parser\BaseApp.IService\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
